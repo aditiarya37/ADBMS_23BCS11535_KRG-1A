@@ -8,7 +8,6 @@ To solve this problem, the company needs an automated database-driven solution t
 
 
 
-
 CREATE TABLE employee_info (id SERIAL PRIMARY KEY,name VARCHAR(50) NOT NULL,gender VARCHAR(10) NOT NULL,salary NUMERIC(10,2) NOT NULL,city VARCHAR(50) NOT NULL 
 ); 
 INSERT INTO employee_info (name, gender, salary, city) 

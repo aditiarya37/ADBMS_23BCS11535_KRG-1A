@@ -7,7 +7,6 @@ Create a large dataset:
 
 
 
-
 CREATE TABLE transaction_data (
     id INT,
     value NUMERIC
